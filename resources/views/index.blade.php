@@ -108,18 +108,24 @@
 									<li><a href="#">last episode</a></li>
 								</ul>
 							</div>
-							<div class="home_title"><h1>Season 4 Episode 48 available.</h1></div>
-							<div class="home_subtitle">Check out my latest podcast a massive interview with John Doe</div>
+							<div class="home_title"><h1>Latest Song-> Sunday 1, Februrary, 2020</h1></div>
+							<!--Change this to the song title later on.-->
+							<div class="home_subtitle">You Say</div>
 							<div class="track_info">
 								<ul class="d-flex flex-row align-items-start justify-content-start">
-									<li><a href="#">September 24, 2018</a></li>
-									<li><a href="#">Music</a></li>
+									<li><a href="#">Sunday Februrary 1, 2020</a></li>
+									<li><a href="#">Sunday Music</a></li>
 									<li>56:40</li>
 									<li><a href="#">0 Comments</a></li>
 								</ul>
 							</div>
+							<!--Get a song hosting platform and link it with this site.
 							<div class="track track_home">
 								<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/197004056&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+							</div/
+							-->
+							<div class="track track_home">
+								<h3>Song is coming Soon!</h3>
 							</div>
 							<div class="button_border home_button trans_200"><a href="#">More Info</a></div>
 						</div>
