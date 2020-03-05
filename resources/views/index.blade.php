@@ -31,11 +31,11 @@
 					<div class="header_content d-flex flex-row align-items-center justify-content-start trans_400">
 						<nav class="main_nav">
 							<ul class="d-flex flex-row align-items-start justify-content-start">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="about.html">About</a></li>
-								<li><a href="episodes.html">Episodes</a></li>
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="contact.html">Contact</a></li>
+								<li><a href="#">Home</a></li>
+								<li><a href="#">About</a></li>
+								<li><a href="#">Episodes</a></li>
+								<li><a href="#">Blog</a></li>
+								<li><a href="#">Contact</a></li>
 							</ul>
 						</nav>
 					</div>

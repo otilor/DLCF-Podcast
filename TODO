@@ -1,0 +1,13 @@
+Things to include in this project
+Todo:
+  ☐ Customize Content to fit DLCF AUL's
+  ☐ Create Admin Profile
+    ☐ Upload Songs
+    ☐ View Songs
+    ☐ Delete Songs
+    ☐ Edit Songs
+
+☐ For Users
+    ☐ Create Download Button
+    ☐ Thank you for downloading {{$song->name}}
+    ☐ Show similar songs
