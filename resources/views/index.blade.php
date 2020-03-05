@@ -71,11 +71,11 @@
 	<div class="menu">
 		<div class="menu_content d-flex flex-column align-items-end justify-content-start">
 			<ul class="menu_nav_list text-right">
-				<li><a href="index.html">Home</a></li>
-				<li><a href="about.html">About</a></li>
-				<li><a href="episodes.html">Episodes</a></li>
-				<li><a href="blog.html">Blog</a></li>
-				<li><a href="contact.html">Contact</a></li>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Episodes</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">Contact</a></li>
 			</ul>
 			<div class="menu_extra d-flex flex-column align-items-end justify-content-start">
 				<div class="menu_submit"><a href="#">Submit your podcast</a></div>
@@ -139,7 +139,7 @@
 				<div class="col-lg-4">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_1.jpg" alt="https://unsplash.com/@icons8">
 							</a>
 							<div class="show_tags">
@@ -153,7 +153,7 @@
 						</div>
 						<div class="show_content">
 							<div class="show_date"><a href="#">24 September, 2018</a></div>
-							<div class="show_title"><a href="episode.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
+							<div class="show_title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
 							<div class="show_info d-flex flex-row align-items-start justify-content-start">
 								<div class="show_fav d-flex flex-row align-items-center justify-content-start">
 									<div class="show_fav_icon show_info_icon"><img class="svg" src="assets/images/heart.svg" alt=""></div>
@@ -176,7 +176,7 @@
 				<div class="col-lg-4">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_2.jpg" alt="https://unsplash.com/@pawel_czerwinski">
 							</a>
 							<div class="show_tags">
@@ -190,7 +190,7 @@
 						</div>
 						<div class="show_content">
 							<div class="show_date"><a href="#">24 September, 2018</a></div>
-							<div class="show_title"><a href="episode.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
+							<div class="show_title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
 							<div class="show_info d-flex flex-row align-items-start justify-content-start">
 								<div class="show_fav d-flex flex-row align-items-center justify-content-start">
 									<div class="show_fav_icon show_info_icon"><img class="svg" src="assets/images/heart.svg" alt=""></div>
@@ -213,7 +213,7 @@
 				<div class="col-lg-4">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_3.jpg" alt="https://unsplash.com/@trevcole">
 							</a>
 							<div class="show_tags">
@@ -227,7 +227,7 @@
 						</div>
 						<div class="show_content">
 							<div class="show_date"><a href="#">24 September, 2018</a></div>
-							<div class="show_title"><a href="episode.html">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
+							<div class="show_title"><a href="#">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</a></div>
 							<div class="show_info d-flex flex-row align-items-start justify-content-start">
 								<div class="show_fav d-flex flex-row align-items-center justify-content-start">
 									<div class="show_fav_icon show_info_icon"><img class="svg" src="assets/images/heart.svg" alt=""></div>
@@ -307,7 +307,7 @@
 				<div class="col-xl-3 col-md-6">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_4.jpg" alt="https://unsplash.com/@h4rd3n">
 								<div class="show_play_icon"><img src="assets/images/play.svg" alt="https://www.flaticon.com/authors/cole-bemis"></div>
 								<div class="show_title_2">Cras malesuada ipsum sapien.</div>
@@ -327,7 +327,7 @@
 				<div class="col-xl-3 col-md-6">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_5.jpg" alt="https://unsplash.com/@gohobo">
 								<div class="show_play_icon"><img src="assets/images/play.svg" alt="https://www.flaticon.com/authors/cole-bemis"></div>
 								<div class="show_title_2">Cras malesuada ipsum sapien.</div>
@@ -347,7 +347,7 @@
 				<div class="col-xl-3 col-md-6">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="assets/images/show_6.jpg" alt="https://unsplash.com/@zacharykeimig">
 								<div class="show_play_icon"><img src="assets/images/play.svg" alt="https://www.flaticon.com/authors/cole-bemis"></div>
 								<div class="show_title_2">Cras malesuada ipsum sapien.</div>
@@ -367,7 +367,7 @@
 				<div class="col-xl-3 col-md-6">
 					<div class="show">
 						<div class="show_image">
-							<a href="episode.html">
+							<a href="#">
 								<img src="images/show_7.jpg" alt="https://unsplash.com/@bkview">
 								<div class="show_play_icon"><img src="assets/images/play.svg" alt="https://www.flaticon.com/authors/cole-bemis"></div>
 								<div class="show_title_2">Cras malesuada ipsum sapien.</div>
@@ -432,7 +432,7 @@
 						<!-- Latest -->
 						<div class="latest">
 							<div class="latest_title_container d-flex flex-row align-items-start justify-content-start">
-								<a href="episode.html">
+								<a href="#">
 									<div class="d-flex flex-row align-items-start justify-content-start">
 										<div class="latest_play">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 714 714" style="enable-background:new 0 0 714 714;" xml:space="preserve">
@@ -458,7 +458,7 @@
 						<!-- Latest -->
 						<div class="latest">
 							<div class="latest_title_container d-flex flex-row align-items-start justify-content-start">
-								<a href="episode.html">
+								<a href="#">
 									<div class="d-flex flex-row align-items-start justify-content-start">
 										<div class="latest_play">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 714 714" style="enable-background:new 0 0 714 714;" xml:space="preserve">
@@ -484,7 +484,7 @@
 						<!-- Latest -->
 						<div class="latest">
 							<div class="latest_title_container d-flex flex-row align-items-start justify-content-start">
-								<a href="episode.html">
+								<a href="#">
 									<div class="d-flex flex-row align-items-start justify-content-start">
 										<div class="latest_play">
 											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 714 714" style="enable-background:new 0 0 714 714;" xml:space="preserve">
@@ -558,7 +558,7 @@
 			</div>
 
 </br></br><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://github.com/GabielFemi" target="_blank">Gabriel Akinyosoye</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 
 		</div>
