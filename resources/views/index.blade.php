@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta http-equiv="refresh" content="5">
+
 <title>DLCF Podcast</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -46,9 +46,12 @@
 
 		<!-- Submit & Social -->
 		<div class="header_right d-flex flex-row align-items-start justify-content-start">
-			
+
 			<!-- Submit -->
-			<div class="submit"><a href="#">Submit a Podcast</a></div>
+			@if(Session::get('status'))
+				<div class="submit"><a href="#">Submit a Podcast</a></div>
+			@endif
+			
 			
 			<!-- Social -->
 			<div class="social">
