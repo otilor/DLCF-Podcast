@@ -223,7 +223,9 @@
 								<img src="assets/images/show_3.jpg" alt="https://unsplash.com/@trevcole">
 							</a>
 							<div class="show_tags">
-								<div class="tags">
+								<div c
+
+								Cras congue et risus eget congue. Integer id justo non orci suscipit cursus a scelerisque libero. Fusce in tortor mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas euismolass="tags">
 									<ul class="d-flex flex-row align-items-start justify-content-start">
 										<li><a href="#">Music</a></li>
 									</ul>
@@ -264,40 +266,39 @@
 	<!-- Bi Weekly -->
 
 	<div class="weekly">
-		<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="images/weekly.jpg" data-speed="0.8"></div>
-		<div class="container">
-			<div class="row row-eq-height">
-				
-				<!-- Weekly Content -->
-				<div class="col-lg-6">
-					<div class="weekly_content d-flex flex-column align-items-start justify-content-lg-center justify-content-start">
-						<div>
-							<div class="weekly_title"><h1>Bi-weekly episodes</h1></div>
-							<div class="weekly_text">
-								<p>Cras congue et risus eget congue. Integer id justo non orci suscipit cursus a scelerisque libero. Fusce in tortor mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas euismod sed magna.</p>
-							</div>
-							<div class="shops d-flex flex-row align-items-start justify-content-start flex-wrap">
-								<div class="button_border"><a href="#">Amazon</a></div>
-								<div class="button_border"><a href="#">Itunes</a></div>
-								<div class="button_border"><a href="#">Spotify</a></div>
+			<div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="assets/images/weekly.jpg" data-speed="0.8"></div>
+			<div class="container">
+				<div class="row row-eq-height">
+					
+					<!-- Weekly Content -->
+					<div class="col-lg-6">
+						<div class="weekly_content d-flex flex-column align-items-start justify-content-lg-center justify-content-start">
+							<div>
+								<div class="weekly_title"><h1>Bi-weekly episodes</h1></div>
+								<div class="weekly_text">
+									<p>Cras congue et risus eget congue. Integer id justo non orci suscipit cursus a scelerisque libero. Fusce in tortor mauris. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas euismod sed magna.</p>
+								</div>
+								<div class="shops d-flex flex-row align-items-start justify-content-start flex-wrap">
+									<div class="button_border"><a href="#">Amazon</a></div>
+									<div class="button_border"><a href="#">Itunes</a></div>
+									<div class="button_border"><a href="#">Spotify</a></div>
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-
-				<!-- Weekly Image -->
-				<div class="col-lg-6">
-					<div class="weekly_image">
-						<img src="assets/images/show_3.jpg" alt="">
-						<div class="logo">
-							<a href="#" class="d-flex flex-row"><span>my</span>podcast<div><img src="assets/images/play_2.png" alt=""></div></a>
+	
+					<!-- Weekly Image -->
+					<div class="col-lg-6">
+						<div class="weekly_image">
+							<img src="assets/images/show_3.jpg" alt="">
+							<div class="logo">
+								<a href="#" class="d-flex flex-row"><span>my</span>podcast<div><img src="assets/images/play_2.png" alt=""></div></a>
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
-
 	<!-- Shows 2 -->
 
 	<div class="shows_2">
