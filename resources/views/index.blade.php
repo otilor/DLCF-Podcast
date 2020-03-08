@@ -99,7 +99,7 @@
 	<!-- Home -->
 
 	<div class="home">
-		<div class="background_image" style="background-image:url(assets/images/index.jpg)"></div>
+		<div class="background_image" style="background-image:url(assets/images/index2.jpg)"></div>
 		<div class="home_container">
 			<div class="container">
 				<div class="row">
